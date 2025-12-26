@@ -13,6 +13,8 @@ SMTP_USER=your-email@gmail.com
 SMTP_PASS=your-app-password
 ```
 
+
+
 > [!TIP]
 > **Gmail Users:** You cannot use your regular password. You must generate an **App Password** from your Google Account settings (Search for "App Passwords" in your Google Account Security tab).
 
