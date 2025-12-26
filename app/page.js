@@ -11,10 +11,6 @@ import {
   Target, UserCheck, Handshake, Star, X, Search
 } from "lucide-react";
 
-export const metadata = {
-  title: "Building Careers & Delivering Technology",
-  description: "3F Tech Solutions is KGF's leading hub for computer education and IT services. Explore our CCB, CCA, Tally, and Web Development courses today.",
-};
 
 export default function Home() {
   // Gallery Modal State
