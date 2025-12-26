@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 3F Tech Solutions - Official Website
 
-## Getting Started
+Official website for **3F Tech Solutions**: A multi-disciplinary organization dedicated to skill development, academic excellence, and professional technology services.
 
-First, run the development server:
+## 🚀 Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This professional platform serves as a "One-Stop Hub" for:
+- **Computer Education**: CCB, CCA, DCA, ADCA, Tally with GST, Web Development.
+- **Advanced Learning**: Proactive Abacus, Mnemonic Science, and Academic Tuitions (KG to 12th).
+- **IT Services**: Laptop Sales/Repairs, CCTV Surveillance, Web Apps, and Networking.
+- **Career Consultancy**: Degree Programs (B.Voc, Regular/Distance) and Career Guidance.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tech Stack
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Framework**: [Next.js 15+](https://nextjs.org/) (App Router)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Backend Email**: [Nodemailer](https://nodemailer.com/)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ✨ Key Features
 
-## Learn More
+- **Responsive Design**: Optimized for Desktop, Tablet, and Mobile.
+- **Professional Theme**: Premium blue/slate aesthetic with smooth micro-animations.
+- **Functional Contact System**: Integrated enquiry form with real-time email notifications.
+- **Interactive Gallery**: Success stories and facility showcase with smooth-scrolling navigation.
+- **SEO Optimized**: Semantic HTML and optimized image handling for faster load times.
 
-To learn more about Next.js, take a look at the following resources:
+## ⚙️ Setup & Installation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/mohammed-ayan-zahoor/3F-Tech-Website-Simple-.git
+   cd 3F-Tech-Website-Simple-
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
 
-## Deploy on Vercel
+3. **Configure Environment Variables:**
+   Create a `.env.local` file in the root directory and add your SMTP credentials:
+   ```env
+   SMTP_HOST=smtp.gmail.com
+   SMTP_PORT=587
+   SMTP_SECURE=false
+   SMTP_USER=your-email@gmail.com
+   SMTP_PASS=your-16-digit-app-password
+   ```
+   *Refer to `SMTP_CONFIG.md` for more details on generating an App Password.*
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+4. **Run the development server:**
+   ```bash
+   npm run dev
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📬 Contact Information
+
+- **Address**: 1st Floor, #612, 6th Cross, Goutham Nagar, Robertsonpet, Kolar Gold Fields, Karnataka-563122.
+- **Email**: 3ftechsolutions@gmail.com
+- **Phone**: +91 9488842786
