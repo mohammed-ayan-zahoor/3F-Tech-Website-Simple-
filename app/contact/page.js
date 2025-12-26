@@ -21,7 +21,7 @@ export default function ContactPage() {
                             <MapPin size={32} />
                         </div>
                         <h3 className="text-xl font-bold text-[#003366]">Visit Us</h3>
-                        <p className="text-gray-500 text-sm">Main Market Road, Opp. SBI, District Center, Area Pin-00000</p>
+                        <p className="text-gray-500 text-sm">1st Floor, #612, 6th Cross, Goutham Nagar, Robertsonpet, Kolar Gold Fields, Karnataka-563122.</p>
                     </div>
                     <div className="bg-white p-8 rounded-2xl shadow-sm text-center space-y-4">
                         <div className="w-16 h-16 bg-blue-50 rounded-full flex items-center justify-center mx-auto text-[#3b82f6]">
@@ -35,7 +35,7 @@ export default function ContactPage() {
                             <Mail size={32} />
                         </div>
                         <h3 className="text-xl font-bold text-[#003366]">Email Us</h3>
-                        <p className="text-gray-500 text-sm">info@3ftech.in</p>
+                        <p className="text-gray-500 text-sm">3ftechsolutions@gmail.com</p>
                     </div>
                 </div>
 

@@ -38,9 +38,9 @@ export default function Header() {
                             <Phone size={14} />
                             Call: +91 9488842786
                         </a>
-                        <a href="mailto:info@3ftech.in" className="flex items-center gap-1 hover:text-blue-200 transition-colors">
+                        <a href="mailto:3ftechsolutions@gmail.com" className="flex items-center gap-1 hover:text-blue-200 transition-colors">
                             <Mail size={14} />
-                            Email: info@3ftech.in
+                            Email: 3ftechsolutions@gmail.com
                         </a>
                     </div>
                     <div className="flex gap-4 items-center">
