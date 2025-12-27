@@ -9,7 +9,7 @@ export default function AboutPage() {
             {/* Hero Section */}
             <section className="py-20 bg-[#003366] text-white">
                 <div className="container text-center">
-                    <h1 className="text-4xl md:text-6xl font-bold mb-6">About 3F Tech Solutions</h1>
+                    <h1 className="text-4xl md:text-6xl font-bold mb-6 text-white">About 3F Tech Solutions</h1>
                     <p className="text-xl text-white/70 max-w-3xl mx-auto">
                         A multi-disciplinary organization dedicated to skill development, academic excellence, and professional growth.
                     </p>
